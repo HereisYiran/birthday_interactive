@@ -1,17 +1,15 @@
 export const letterText = `
-Dear 寻,
+Dear Friend,
 
-Happy Anniversary! 🎉
+Happy Birthday! 🎉
 
-一年的时间好快啊！去年的今日仿佛就在昨天。之前我总是为一些美好的瞬间而活着，希望这些短暂的高亮足以对抗生活琐碎的平庸。但认识你之后，发现日常的点滴也可以很美好-那是一种平静的、细水长流的安全感，在温暖的云朵里散开。
+I wanted to take a moment to celebrate you and all the wonderful memories we've shared together. Each moment has been special, and I'm grateful to have you in my life.
 
-有一天睡不着在想，如果有一天人类收到了宇宙其他文明的回复，人类文明是否会进入危机纪元？发生在地球上的一切是否只是缥缈宇宙中的一粒尘埃。那个时候，爱情友情亲情的形态会是什么样的？我们是如此脆弱的存在，但又小心翼翼地伸出触角和其她个体产生联系，这是多么美妙的画面。我想和你紧紧相拥，在世界末日，在太阳星系被毁灭的日子。
+As you look through these memories, I hope they bring a smile to your face and remind you of all the joy and laughter we've experienced together.
 
-总之很幸运可以和你度过美好的一年，希望接下来有更多更多一起度过的时光。
+Here's to another amazing year filled with happiness, adventures, and more beautiful memories!
 
-要依旧开心做自己，相信你会在地球继续增添足迹！
-
-爱你的,
-姜
+With love and warm wishes,
+Your Friend
 `.trim()
 

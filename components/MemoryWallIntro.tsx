@@ -26,7 +26,7 @@ export default function MemoryWallIntro({ onOpenMemoryWall }: MemoryWallIntroPro
           📸 Memory Wall
         </h2>
         <p className="text-xl md:text-2xl text-muted-foreground max-w-md">
-          快来看看我们的精选照片- 点击图片
+          Come to view our shared memories- click to see hidden messages
         </p>
       </motion.div>
 
@@ -37,7 +37,7 @@ export default function MemoryWallIntro({ onOpenMemoryWall }: MemoryWallIntroPro
         className="mt-12"
       >
         <Button onClick={onOpenMemoryWall} size="lg" className="text-lg px-8 py-6">
-          打开照片墙
+          View the Memory Wall
         </Button>
       </motion.div>
     </motion.div>

@@ -8,32 +8,32 @@ export const memories: Memory[] = [
   {
     id: "1",
     imgSrc: "/memories/memory1.jpg",
-    backText: "即将到来的难忘夜晚，我们一起看了好东西",
+    backText: "type message",
   },
   {
     id: "2",
     imgSrc: "/memories/memory2.jpg",
-    backText: "亲亲，我们偷情",
+    backText: "type message",
   },
   {
     id: "3",
     imgSrc: "/memories/memory3.jpg",
-    backText: "哇，应该是我最难忘的greenkey",
+    backText: "type message",
   },
   {
     id: "4",
     imgSrc: "/memories/memory4.jpg",
-    backText: "楚楚可怜寻!",
+    backText: "type message",
   },
   {
     id: "5",
     imgSrc: "/memories/memory5.jpg",
-    backText: "正经游客照",
+    backText: "type message",
   },
   {
     id: "6",
     imgSrc: "/memories/memory6.jpg",
-    backText: "美好异地中",
+    backText: "type message",
   },
 ]
 

@@ -62,10 +62,10 @@ export default function Final({ onReplay }: FinalProps) {
         className="space-y-6 z-10"
       >
         <h2 className="text-5xl md:text-6xl font-bold text-primary mb-4">
-          🎉 爱你 🎉
+          🎉 <br/> Happy Birthday <br/> 
         </h2>
         <p className="text-xl md:text-2xl text-muted-foreground max-w-md">
-          我们明年见！
+          From Your Friend
         </p>
       </motion.div>
 
@@ -76,7 +76,7 @@ export default function Final({ onReplay }: FinalProps) {
         className="mt-12 z-10"
       >
         <Button onClick={onReplay} size="lg" variant="outline" className="text-lg px-8 py-6">
-          再看一次
+          Replay
         </Button>
       </motion.div>
     </motion.div>

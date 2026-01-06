@@ -22,10 +22,10 @@ export default function Landing({ onOpen }: LandingProps) {
         transition={{ delay: 0.2, type: "spring", stiffness: 200 }}
       >
         <h1 className="text-5xl md:text-6xl font-bold text-primary mb-4">
-          一周年快乐 🎉
+          💗 <br/> Happy Birthday <br/>
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground">
-          点开这封为你准备的信
+          Click to view this personalized letter
         </p>
       </motion.div>
 
@@ -39,7 +39,7 @@ export default function Landing({ onOpen }: LandingProps) {
           size="lg"
           className="text-lg px-8 py-6 rounded-full shadow-lg hover:shadow-xl transition-shadow"
         >
-          打开
+          Open
         </Button>
       </motion.div>
     </motion.div>
