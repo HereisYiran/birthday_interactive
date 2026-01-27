@@ -1,14 +1,14 @@
 # Birthday Interactive Card 🎂
 
-An interactive birthday card built with Next.js, featuring smooth animations and a memory gallery experience.
+An interactive birthday card vibecoded with Next.js, featuring smooth animations and a memory gallery experience.
 
 ## Features
 
-- 🎨 Beautiful Bauhaus-inspired design with warm colors
-- ✨ Smooth transitions using Framer Motion
-- 📸 Interactive memory wall with flip cards
-- 🎉 Confetti animation on final screen
-- 📱 Fully responsive mobile-first design
+- Beautiful Bauhaus-inspired design with warm colors
+- Smooth transitions using Framer Motion
+- Interactive memory wall with flip cards
+- Confetti animation on final screen
+- Fully responsive mobile-first design
 
 ## Getting Started
 
